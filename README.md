@@ -13,4 +13,4 @@ Adicione um Automod Nativo para [palavras comumente sinalizadas](palavras_banida
 Adicione um Filtro na aba de Regex para adicionar [expressões regulares](regex_markdowns.txt) Anti-Markdowns.
 
 ## [Regex para Links e Convites](regex_spam_links.txt)
-Adicione um Filtro na aba de Regex para bloquear o [envio de links e convites](regex_markdowns.txt) no Servidor.
+Adicione um Filtro na aba de Regex para bloquear o [envio de links e convites](regex_spam_links) no Servidor.
