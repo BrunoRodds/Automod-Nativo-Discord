@@ -7,10 +7,10 @@ Para sugestões, modificações ou adições, entre em contato com o servidor [W
 ⠀
 ⠀
 ## [Automod de Palavras](palavras_banidas.txt)
-Adicione um Automod Nativo para [palavras comumente sinalizadas](palavras_banidas.txt) como impróprias.
+Adicione um Automod Nativo para [palavras](palavras_banidas) comumente sinalizadas como impróprias.
 
 ## [Regex para Markdowns](regex_markdowns.txt)
-Adicione um Filtro na aba de Regex para adicionar [expressões regulares](regex_markdowns.txt) Anti-Markdowns.
+Adicione um Filtro na aba de Regex para adicionar [expressões](regex_markdowns) regulares Anti-Markdowns.
 
 ## [Regex para Links e Convites](regex_spam_links.txt)
-Adicione um Filtro na aba de Regex para bloquear o [envio de links e convites](regex_spam_links) no Servidor.
+Adicione um Filtro na aba de Regex para bloquear o envio de [links e convites](regex_spam_links) no Servidor.
