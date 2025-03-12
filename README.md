@@ -36,6 +36,7 @@ A seguir, listamos algumas dicas e recursos que podem ser utilizados em conjunto
 
 <br>![image](https://github.com/user-attachments/assets/51bf497d-4152-4ff4-bc33-5c11135e7691)
 <br><br><br>
+
 <a id="etapa3"></a>
 **3. Adicionando a Regra "Antiraid":**
 > Descendo para o scopo **"Create a new rule"**, adicione **"Antiraid"** e clique em **"Create"**.
