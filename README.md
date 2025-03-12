@@ -1,4 +1,4 @@
-<a id="paragrafo-importante"></a>
+<a id="automod"></a>
 # Automod Nativo do Discord 
 Um compilado de palavras e regex para aprimorar o Automod nativo do Discord.
 
@@ -17,10 +17,10 @@ Para sugestões, modificações ou adições, entre em contato com o servidor [W
 | <p align="center">[Links e Convites (Regex)](regex_spam_links)</p> | Filtro em Regex para bloquear os envios de links e convites.  |
 
 <br><br><br><br>
-
+<a id="yagpdb"></a>
 # Configurando o Bot YagPDB
 O Bot YagPDB possui diversas ferramentas úteis para gerenciar sua comunidade com segurança. Tais como proteção contra Spam, Flood e seu próprio automod particular. 
-Abaixo será listado algumas dicas e recursos que, em parceria com o [Automod Nativo](#paragrafo-importante)
+Abaixo será listado algumas dicas e recursos que, em parceria com o [Automod Nativo](#automod)
 
 # 	
 
