@@ -37,9 +37,16 @@ A seguir, listamos algumas dicas e recursos que podem ser utilizados em conjunto
 <br>![image](https://github.com/user-attachments/assets/51bf497d-4152-4ff4-bc33-5c11135e7691)
 <br><br><br>
 
-**3. Adicionando a Regra Antiraid:**
+**3. Adicionando a Regra "Antiraid":**
 > Descendo para o scopo **"Create a new rule"**, adicione **"Antiraid"** e clique em **"Create"**.
 
 <br>![image](https://github.com/user-attachments/assets/d959abc4-462f-4626-8bf4-f5ee054b9bfe)
-
 <br><br><br>
+
+
+**4.1 Configrando a Regra "Antiraid":**
+> Descendo até a nova Regra, em **"Triggers"**, adicione **"x user messages in y seconds"** e **"x consecutive identical messages"**, ajustando os limites conforme seu servidor.
+
+<br>![image](https://github.com/user-attachments/assets/92c27cd8-ef3b-473f-b7e0-1008ec88ce65)
+<br><br><br>
+
