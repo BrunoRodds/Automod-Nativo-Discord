@@ -44,9 +44,14 @@ A seguir, listamos algumas dicas e recursos que podem ser utilizados em conjunto
 <br><br><br>
 
 
-**4.1 Configrando a Regra "Antiraid":**
+**4.1 Configurando a Regra "Antiraid":**
 > Descendo até a nova Regra, em **"Triggers"**, adicione **"x user messages in y seconds"** e **"x consecutive identical messages"**, ajustando os limites conforme seu servidor.
 
 <br>![image](https://github.com/user-attachments/assets/92c27cd8-ef3b-473f-b7e0-1008ec88ce65)
 <br><br><br>
 
+**4.2 Condições da Regra "Antiraid":**
+> Em **"Conditions"**, adicione **"ignore roles"**, **"ignore bots"** e **"ignore channels"**, ajustando as exceções conforme seu servidor.
+
+<br>![image](https://github.com/user-attachments/assets/e89d1536-8c2e-425f-b41d-20d2e4707de6)
+<br><br><br>
