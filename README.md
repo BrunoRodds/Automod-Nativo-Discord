@@ -1,4 +1,5 @@
-# Automod Nativo do Discord <a id="paragrafo-importante"></a>
+<a id="paragrafo-importante"></a>
+# Automod Nativo do Discord 
 Um compilado de palavras e regex para aprimorar o Automod nativo do Discord.
 
 Este conteúdo foi reunido para otimizar o uso do Automod em seu servidor, incluindo uma lista de palavras comumente banidas e regras em regex para evitar spam e a divulgação de links. 
