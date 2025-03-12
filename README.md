@@ -7,7 +7,6 @@ Este conteúdo foi reunido para otimizar o uso do Automod em seu servidor, inclu
 Para sugestões, modificações ou adições, entre em contato com o servidor [Warlocks Dungeons](https://discord.gg/wrJ6aVfDs9).
 
 # 	
-
 <br>
 
 | Automod                     | Função                                                       |
@@ -21,12 +20,8 @@ Para sugestões, modificações ou adições, entre em contato com o servidor [W
 # Configurando o Bot YagPDB
 O YagPDB oferece diversas ferramentas essenciais para gerenciar sua comunidade com segurança, incluindo proteção contra spam, flood e um sistema de automod personalizado. Para convidá-lo ao servidor, acesse sua [Página Oficial](https://yagpdb.xyz).
 
-A seguir, listamos algumas dicas e recursos que podem ser utilizados em conjunto com o [Automod Nativo](#automod).  
-
-
-
+A seguir, listamos algumas dicas e recursos que podem ser utilizados em conjunto com o seu [Automod Nativo](#automod).  
 
 # 	
-
 <br>
 
