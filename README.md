@@ -55,3 +55,10 @@ A seguir, listamos algumas dicas e recursos que podem ser utilizados em conjunto
 
 <br>![image](https://github.com/user-attachments/assets/e89d1536-8c2e-425f-b41d-20d2e4707de6)
 <br><br><br>
+
+**4.3 Ações da Regra "Antiraid":**
+> Em **"Effects"**, adicione ações como **"Send Alert"**, **"Timeout User"**, **"+Violation"** e **"Delete multiple messages"**. Isso garantirá a remoção de mensagens em massa, com notificações ou penalidades conforme as regras do seu servidor.
+
+<br>![image](https://github.com/user-attachments/assets/54459402-5d5b-432f-b4d5-35b98ab01821)
+
+<br><br><br>
