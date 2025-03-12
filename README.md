@@ -40,5 +40,6 @@ A seguir, listamos algumas dicas e recursos que podem ser utilizados em conjunto
 **3. Definas Canais e Cargos isentos da Regra:**
 > Na aba **"Ruleset Scoped Conditions"**, defina os canais e cargos que devem ser excluídos da ação do Automod, como aqueles utilizados para moderação.
 
-<br>![image](https://github.com/user-attachments/assets/51bf497d-4152-4ff4-bc33-5c11135e7691)
+<br>![image](https://github.com/user-attachments/assets/d959abc4-462f-4626-8bf4-f5ee054b9bfe)
+
 <br><br><br>
