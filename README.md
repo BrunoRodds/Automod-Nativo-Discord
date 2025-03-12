@@ -25,3 +25,8 @@ A seguir, listamos algumas dicas e recursos que podem ser utilizados em conjunto
 # 	
 <br>
 
+**1. Criando uma Nova Regra contra Flood:**
+> Após convidar o YagPDB, acesse o Painel de Configurações e vá até a aba **"Moderation → Advanced Automoderator"**. Nomeie a nova Ruleset como **"Flood"**.
+
+<br>![image](https://github.com/user-attachments/assets/90f68a77-c50a-408f-a0ce-4add7d9d8988)
+
