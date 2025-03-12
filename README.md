@@ -37,7 +37,7 @@ A seguir, listamos algumas dicas e recursos que podem ser utilizados em conjunto
 <br>![image](https://github.com/user-attachments/assets/51bf497d-4152-4ff4-bc33-5c11135e7691)
 <br><br><br>
 
-**3. Adicionando a Regra "Antiraid":**
+**3. Adicionando a Regra "Antiraid":** <a id="etapa3"></a>
 > Descendo para o scopo **"Create a new rule"**, adicione **"Antiraid"** e clique em **"Create"**.
 
 <br>![image](https://github.com/user-attachments/assets/d959abc4-462f-4626-8bf4-f5ee054b9bfe)
@@ -64,7 +64,7 @@ A seguir, listamos algumas dicas e recursos que podem ser utilizados em conjunto
 <br><br><br>
 
 **4.4 Aplicando Punição a Regra "Antiraid":**
-> Em **"Effects"**, adicione ações como **"Send Alert"**, **"Timeout User"**, **"+Violation"** e **"Delete multiple messages"**. Isso garantirá a remoção de mensagens, com notificações ou penalidades conforme as regras do seu servidor.
+> Por fim, volte para a [Etapa 3](#etapa3) e crie uma nova regra chamada **"Timeout User"**. Essa regra funcionará como acumulador de advertências, que podem levar à expulsão do membro. Adicione ou remova o limite de advertências máximas conforme as necessidades do seu servidor.
 
 <br>![image](https://github.com/user-attachments/assets/9abb6cc7-f443-4cf3-b05c-f1dd6e97c55e)
 <br><br><br>
