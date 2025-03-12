@@ -19,10 +19,11 @@ Para sugestões, modificações ou adições, entre em contato com o servidor [W
 <br><br><br><br>
 <a id="yagpdb"></a>
 # Configurando o Bot YagPDB
-O Bot YagPDB possui diversas ferramentas úteis para gerenciar sua comunidade com segurança. Tais como proteção contra Spam, Flood e seu próprio automod particular. 
-Abaixo será listado algumas dicas e recursos que, em parceria com o [Automod Nativo](#automod)
+O YagPDB oferece diversas ferramentas essenciais para gerenciar sua comunidade com segurança, incluindo proteção contra spam, flood e um sistema de automod personalizado.  
 
-Você pode convidar o Bot ao seu Servidor [clicando aqui](https://yagpdb.xyz).
+A seguir, listamos algumas dicas e recursos que podem ser utilizados em conjunto com o [Automod Nativo](#automod).  
+
+Para adicionar o bot ao seu servidor, acesse sua [Página Oficial](https://yagpdb.xyz).
 
 
 # 	
