@@ -29,4 +29,16 @@ A seguir, listamos algumas dicas e recursos que podem ser utilizados em conjunto
 > Após convidar o YagPDB, acesse o Painel de Configurações e vá até a aba **"Moderation → Advanced Automoderator"**. Nomeie a nova Ruleset como **"Flood"**.
 
 <br>![image](https://github.com/user-attachments/assets/90f68a77-c50a-408f-a0ce-4add7d9d8988)
+<br><br><br>
 
+**2. Definas Canais e Cargos isentos da Regra:**
+> Na aba **"Ruleset Scoped Conditions"**, defina os canais e cargos que devem ser excluídos da ação do Automod, como aqueles utilizados para moderação.
+
+<br>![image](https://github.com/user-attachments/assets/51bf497d-4152-4ff4-bc33-5c11135e7691)
+<br><br><br>
+
+**3. Definas Canais e Cargos isentos da Regra:**
+> Na aba **"Ruleset Scoped Conditions"**, defina os canais e cargos que devem ser excluídos da ação do Automod, como aqueles utilizados para moderação.
+
+<br>![image](https://github.com/user-attachments/assets/51bf497d-4152-4ff4-bc33-5c11135e7691)
+<br><br><br>
