@@ -51,7 +51,7 @@ A seguir, listamos algumas dicas e recursos que podem ser utilizados em conjunto
 <br><br><br>
 
 **4.2 Condições da Regra "Antiraid":**
-> Em **"Conditions"**, adicione **"ignore roles"**, **"ignore bots"** e **"ignore channels"**, ajustando as exceções conforme seu servidor.
+> Em **"Conditions"**, adicione **"ignore roles"**, **"ignore bots"** e **"ignore channels"**, ajustando conforme seu servidor.
 
 <br>![image](https://github.com/user-attachments/assets/e89d1536-8c2e-425f-b41d-20d2e4707de6)
 <br><br><br>
