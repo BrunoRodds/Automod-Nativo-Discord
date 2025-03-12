@@ -65,7 +65,7 @@ A seguir, listamos algumas dicas e recursos que podem ser utilizados em conjunto
 <br><br><br>
 
 **4.4 Aplicando Punição a Regra "Antiraid":**
-> Por fim, volte para a [Etapa 3](#etapa3) e crie uma nova regra chamada **"Timeout User"**. Essa regra funcionará como **"acumulador de advertências"**, que podem levar à **<u>expulsão do membro</u>**. Adicione ou remova o limite de advertências máximas conforme as necessidades do seu servidor.
+> Por fim, volte para a [Etapa 3](#etapa3) e crie uma nova regra chamada **"Timeout User"**. Essa regra funcionará como **"acumulador de advertências"**, que podem levar à ** - expulsão do membro - **. Adicione ou remova o limite de advertências máximas conforme as necessidades do seu servidor.
 
 <br>![image](https://github.com/user-attachments/assets/9abb6cc7-f443-4cf3-b05c-f1dd6e97c55e)
 <br><br><br>
