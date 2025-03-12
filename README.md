@@ -39,7 +39,7 @@ A seguir, listamos algumas dicas e recursos que podem ser utilizados em conjunto
 
 <a id="etapa3"></a>
 **3. Adicionando a Regra "Antiraid":**
-> Descendo para o scopo **"Create a new rule"**, adicione **"Antiraid"** e clique em **"Create"**.
+> Descendo para o scopo **"Create a new rule"**, adicione a regra **"Antiraid"** e clique em **"Create"**.
 
 <br>![image](https://github.com/user-attachments/assets/d959abc4-462f-4626-8bf4-f5ee054b9bfe)
 <br><br><br>
